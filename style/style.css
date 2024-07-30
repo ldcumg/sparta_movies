@@ -1,0 +1,7 @@
+* {
+    text-align: center;
+}
+
+#movie-container {
+    display: flex;
+}
